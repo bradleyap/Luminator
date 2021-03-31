@@ -1,0 +1,5 @@
+
+
+public enum SegType {
+	WHITESPACE,TABSEG,NEWLINE,PRINTABLE,INVALID
+}
